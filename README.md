@@ -14,7 +14,7 @@
 **Frameworks:** Node.js | Appium | Selenium | WDIO (Appium) | Bootstrap 4 | jQuery <br />
 **Methodologies:** Agile Software Development | Object-Oriented Programming <br />
 **Tools:** Git/GitHub | Command-Line Interface | Visual Studio Code | JetBrains IDE | phpMyAdmin <br />
-**Technologies:** JSON | REST | Dokcer <br />
+**Technologies:** JSON | REST | Docker <br />
 
 ## Education
 ### Coastal Carolina University, Conway, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018
